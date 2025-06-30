@@ -1,0 +1,7 @@
+h1 {
+    margin: 2rem;
+    border: solid, red, 2px;
+    padding: 1rem;
+    color: red;
+    background-color: black;
+}
