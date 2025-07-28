@@ -1,7 +1,20 @@
-h1 {
+.santos {
     margin: 2rem;
     border: solid, red, 2px;
     padding: 1rem;
     color: red;
     background-color: black;
+}
+
+.pedro {
+    margin: 2rem;
+    border: solid, red, 2px;
+    padding: 1rem;
+    color: rgb(0, 8, 255);
+    background-color: black;
+}
+
+body {
+    background-color: cadetblue;
+
 }
