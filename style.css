@@ -3,7 +3,7 @@
     border: solid, red, 2px;
     padding: 1rem;
     color: red;
-    background-color: black;
+    background-color: rgb(177, 177, 177);
 }
 
 .pedro {
@@ -11,10 +11,33 @@
     border: solid, red, 2px;
     padding: 1rem;
     color: rgb(0, 8, 255);
-    background-color: black;
+    background-color: rgb(190, 189, 189);
 }
 
 body {
     background-color: cadetblue;
+    margin: 0;
+
+}
+
+img {
+    width: 150px;;
+
+}
+
+.flamengo {
+
+    background-color: antiquewhite;
+    
+
+
+}
+
+.videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 20px;
+
 
 }
